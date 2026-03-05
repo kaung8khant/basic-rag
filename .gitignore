@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Runtime data
+raw/
+chunk_store/
+vector_store/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
