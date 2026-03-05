@@ -1,4 +1,4 @@
-# basic rag
+# basic RAG ( Retrieval-Augmented Generation )
 
 `basic rag` is a minimal Retrieval-Augmented Generation (RAG) app built with FastAPI, Ollama, and FAISS.
 
